@@ -1,1 +1,4 @@
-proov txt
+# proov txt
+services:
+  hello_world:
+    image: hello-world
